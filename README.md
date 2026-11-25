@@ -1,4 +1,4 @@
-#Project Title: FINAL ML PROJECT
+# Project Title: FINAL ML PROJECT
 
 Team: 14274 2_ITAI1371
 
